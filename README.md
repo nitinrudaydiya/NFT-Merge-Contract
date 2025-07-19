@@ -1,4 +1,4 @@
-# NFTMerge Contract
+# NFT Merge Contract
 
 ## Project Title
 NFT Merge Contract
