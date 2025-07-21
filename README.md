@@ -1,7 +1,7 @@
 # NFT Merge Contract
 
 ## Project Title
-NFT Merge Contract
+NFTMerge Contract
 
 ## Project Description
 The NFT Merge Contract is a smart contract developed for the Soroban blockchain that enables users to merge two or more NFTs into a single, unique NFT. This decentralized mechanism allows for secure and efficient management of digital collectibles by combining NFTs and generating a new token with a distinct identifier. The contract ensures full transparency and traceability of each merge, offering collectors a new layer of creativity and control over their digital assets.
