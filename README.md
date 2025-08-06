@@ -1,4 +1,4 @@
-# NFT-Merge Contract
+# NFT Merge Contract
 
 ## Project Title
 NFTMerge Contract
@@ -25,3 +25,4 @@ This project aspires to become a cornerstone in NFT innovation, driving new form
 ## Contract Details
 CBKDBUSGQRRSOWMM2TW7ZUHJGZPYLZ2IM4RDV4EUMVSBIMV3OHX5WLNJ
 ![alt text](image.png)
+
