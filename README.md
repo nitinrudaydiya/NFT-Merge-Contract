@@ -14,7 +14,7 @@ This project aspires to become a cornerstone in NFT innovation, driving new form
 - NFT Merging: Combine two or more NFTs to create a new NFT with a unique ID.
 - Merge History Tracking: Maintain a full history of merged NFTs, including their original components.
 - Ownership Management: Automatically updates and enforces correct ownership throughout the merging process.
--Fully Decentralized: Operates without central authority, ensuring transparency and trust.
+- Fully Decentralized: Operates without central authority, ensuring transparency and trust.
 
 ## Future Scope
 - Custom Merge Rules: Introduce merging logic based on NFT attributes, rarity, or user-defined parameters.
@@ -25,6 +25,7 @@ This project aspires to become a cornerstone in NFT innovation, driving new form
 ## Contract Details
 CBKDBUSGQRRSOWMM2TW7ZUHJGZPYLZ2IM4RDV4EUMVSBIMV3OHX5WLNJ
 ![alt text](image.png)
+
 
 
 
